@@ -15,3 +15,5 @@
 # Criteria
   Quality of code struture
   Creativity in Open AI Prompt
+  
+  for /f "delims=" %%a in (instructions.txt) do call %%a
